@@ -31,8 +31,3 @@ The Python code (`motorcontrol.py`) includes:
 ## Circuit Diagram
 
 The final circuit diagram is included in this repository to illustrate the physical connections and block-level logic between components.
-
-## Notes
-
-- The motor requires an external 9V power supply; the Raspberry Pi alone cannot provide sufficient power.  
-- The original LCD with parallel pins was replaced by an I2C-compatible version for simpler and more reliable connections.
